@@ -1,0 +1,33 @@
+baseURL = "http://aricooks.com"
+disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
+theme = "hugo-scroll"
+title = "Ari Cooks"
+enableGitInfo = false
+
+[params]
+    favicon = "images/favicon.png"
+    images = ["images/cover-image.jpg"]
+    title_guard = true
+    title = "Ari Cooks"
+    description = "Private Chef Service"
+    copyright = "© Ari Zerner"
+    hidedesignbyline = false
+    invertSectionColors = false
+
+    [[params.contacts]]
+        label = "phone"
+        value = "617-999-6308"
+        url = "tel:+16179996308"
+        icon = "fa fa-phone"
+
+    [[params.contacts]]
+        label = "email"
+        value = "ari@zerner.com"
+        url = "mailto:ari@zerner.com"
+        icon = "fa fa-envelope"
+
+    [[params.contacts]]
+        label = "x"
+        value = "@AriZerner"
+        url = "https://x.com/AriZerner"
+        icon = "fa-brands fa-x-twitter"
