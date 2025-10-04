@@ -4,4 +4,8 @@ weight: 4
 header_menu: true
 ---
 
-My standard pricing is $50/hour + the cost of ingredients. E.g. for an 8-person dinner party, this likely comes out to $150-200, depending on the menu. I'm a bit of a mad economist, so if you'd like to discuss a custom price, let's chat!
+- **Meal Prep**: $100 for a batch of 8 delicious individually-packaged frozen meals. Free delivery in Downtown Berkeley.
+
+- **Dinner Parties**: My standard pricing is $50/hour + the cost of ingredients. E.g. for an 8-person dinner party, this likely comes out to $150-200, depending on the menu.
+
+- **Custom Arrangements**: If you'd like to discuss other cooking services, let's chat! I'm also bit of a mad economist, so I'm intrigued by custom pricing schemes.
