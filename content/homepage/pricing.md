@@ -4,7 +4,7 @@ weight: 4
 header_menu: true
 ---
 
-- **Meal Prep**: $100 for a batch of 8 delicious individually-packaged frozen meals. Free delivery in Downtown Berkeley.
+- **Meal Prep**: A batch of 8 delicious individually-packaged frozen meals. $100 vegetarian, $130 with meat. Free delivery in Downtown Berkeley.
 
 - **Dinner Parties**: My standard pricing is $50/hour + the cost of ingredients. E.g. for an 8-person dinner party, this likely comes out to $150-200, depending on the menu.
 
